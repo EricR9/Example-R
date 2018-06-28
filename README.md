@@ -10,3 +10,5 @@ Error Check Cntl Chart.R - Control chart where sample size is one (n=1).  Uses a
 
 Line Graph with Error Bars.R - Standard descriptive chart which plots the mean value of a categorical variable as well as the
 standard error of the mean.
+
+Bootstrap.R - Manual bootstrap as well as use of the "boot" package.  The file was created by compiling multiple resources.
